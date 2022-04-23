@@ -1,0 +1,10 @@
+/* 11.6.3 Add light text*/
+body {
+
+    color: #f7f7f7;
+  }
+.jumbotron {
+    background-image: url("../images/Bellybutton.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }   
